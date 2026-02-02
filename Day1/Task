@@ -1,0 +1,12 @@
+Title:
+Setup Strapi project with Custom content type
+
+Clone the repo of Strapi and installed the required dependencies
+After running successfully setup the admin panel
+i create a custom content using  creating new collection
+After we store required data onto it.
+And with that we have to give public access to the collection that we created
+After Go to the Api and access it.
+
+I accessed both in the browser and postman 
+with as a authenticated and as unauthenticated
