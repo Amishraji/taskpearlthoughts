@@ -1,0 +1,11 @@
+AWS VM and terraform
+
+Learn about the aws ec2 and vpc .
+Provisoned the aws ec2 and used it according to the need.
+on provisoning the ec2 we have to know about the AMI , instance type, key pair,security group and vpc subnet.
+
+Vpc is a private network . Inside vpc we can control ip address range, subnet,routing,internet access and security.
+
+
+I had also research about the terraform in which we can provison our aws infra using code.
+i had go through about how to create ec2 and vpc using the terraform and how to manage it.
